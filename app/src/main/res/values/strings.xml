@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="city_name">City Name</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+    <string name="minTemp">Min: %1$.2f F</string>
+    <string name="maxTemp">Max: %1$.2f F</string>
+    <string name="humidity">Humidity: %1$.2f %%</string>
+
+</resources>
